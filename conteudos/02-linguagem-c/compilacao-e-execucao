@@ -1,0 +1,32 @@
+O código que você escreve em C precisa ser **compilado** antes de rodar. O compilador transforma seu código em linguagem de máquina (0s e 1s) que o computador entende.
+
+**Etapas da compilação:**
+1. **Pré-processamento**: Processa diretivas #include e #define
+2. **Compilação**: Transforma o código em assembly
+3. **Montagem**: Converte assembly para código objeto (.o)
+4. **Ligação (Linking)**: Junta todos os arquivos objeto e bibliotecas
+
+**Passos para compilar no terminal:**
+1. Salve seu código em um arquivo .c (ex: programa.c)
+2. Compile: `gcc programa.c -o programa`
+3. Execute: `./programa` (Linux/Mac) ou `programa.exe` (Windows)
+
+EXEMPLO DE CÓDIGO:
+
+// Salve como: ola.c
+
+#include <stdio.h>
+
+int main() {
+    printf("Programa compilado com sucesso!\n");
+    return 0;
+}
+
+// No terminal:
+// gcc ola.c -o ola
+// ./ola
+
+// Flags úteis:
+// gcc -Wall programa.c -o programa  (mostra todos warnings)
+// gcc -g programa.c -o programa     (inclui info de debug)
+// gcc -O2 programa.c -o programa    (otimização de velocidade)
