@@ -1,24 +1,26 @@
 # Code in C
 
-O **Code in C** é uma plataforma educacional voltada ao ensino de programação
-em linguagem C, desenvolvida integralmente utilizando a plataforma **Lovable**.
+O **Code in C** é uma plataforma educacional interativa voltada ao ensino progressivo
+da linguagem de programação C, desenvolvida com foco em estudantes iniciantes,
+intermediários e avançados da área de Tecnologia da Informação.
 
-O projeto tem como objetivo servir como ponto de partida para estudantes de TI,
-indo do nível iniciante (sem conhecimento prévio) até conceitos mais avançados,
-por meio de conteúdos teóricos, exemplos práticos, pequenos projetos e desafios.
+O projeto foi **integralmente desenvolvido na plataforma Lovable**, utilizando
+**IA Generativa e engenharia de prompts** para concepção da interface, organização
+do conteúdo educacional e estrutura da aplicação.
 
-## Tecnologia utilizada
-- Lovable (plataforma de desenvolvimento)
+🔗 **Acesse a plataforma:**  
+https://codeinc.lovable.app
 
-## Proposta educacional
-- Introdução à lógica de programação
-- Fundamentos da linguagem C
-- Evolução progressiva de dificuldade
-- Aprendizado baseado em prática
-
-## Sobre este repositório
-Este repositório tem como finalidade **documentar o projeto**, apresentar sua
-estrutura educacional e servir como portfólio acadêmico e profissional.
+## Objetivo
+Criar um ambiente acessível, didático e engajador para o aprendizado de programação
+em C, unindo conteúdo teórico, prática, desafios, jogos educativos e gamificação.
 
 ## Público-alvo
-Estudantes iniciantes em programação e cursos da área de Tecnologia da Informação.
+- Iniciantes absolutos em programação
+- Estudantes de cursos de TI
+- Pessoas em transição de carreira para tecnologia
+
+## Sobre este repositório
+Este repositório documenta a **arquitetura educacional**, a **metodologia**,
+a **estrutura da plataforma** e os **recursos implementados**, servindo como
+portfólio acadêmico e profissional.
