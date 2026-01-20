@@ -1,4 +1,4 @@
-# Metodologia de Ensino
+# Metodologia de Educacional
 
 A metodologia do Code in C é baseada em três pilares:
 
